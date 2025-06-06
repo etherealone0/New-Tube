@@ -63,6 +63,9 @@ const VideosSectionSuspense = () => {
                                     <TableCell>
                                         comments
                                     </TableCell>
+                                    <TableCell>
+                                        likes
+                                    </TableCell>
                                 </TableRow>
                             </Link>
                         ))}
